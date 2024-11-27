@@ -52,10 +52,15 @@ Sigue estos pasos para ejecutar el proyecto:
 ```plaintext
    git clone https://github.com/deivispuertas/hotel_py.git
 ```
+2. Accede al repositorio clonado:
    - cd hotel_py
+   - Puedes poner este comando en tu terminal cuando accedas a tu archivo
      
-2. Ejecuta el programa:
+   ```plaintext
+   code .
+   ```
+3. Ejecuta el programa:
 
-   python main.py
+   main.py
 
 
