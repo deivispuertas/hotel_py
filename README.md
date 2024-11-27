@@ -63,4 +63,13 @@ Sigue estos pasos para ejecutar el proyecto:
 
    main.py
 
+4. Resultados :
+   
+<div align="center">
+   
+![image](https://github.com/user-attachments/assets/67101321-4cee-4d5a-9a0e-363009aa77f7)
+
+</div>
+
+
 
